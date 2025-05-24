@@ -1,0 +1,7 @@
+# Generated folders
+__pycache__/
+.vercel/
+.venv/
+
+# Private files
+.env
